@@ -1,0 +1,5 @@
+all: school
+school:
+	@echo "school"
+clean:
+	rm -f school
